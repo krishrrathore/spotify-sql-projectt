@@ -348,6 +348,23 @@ spotify-sql-project/
 ```
 
 ---
+- 🎯 Which platform should artists prioritize?
+  → 76% of tracks perform better on Spotify than YouTube
+
+- 📊 Does official video increase engagement?
+  → Yes — official video tracks get 3x higher views
+
+- 🎵 What audio features drive streams?
+  → High energy (0.8+) and danceability (0.75+) tracks stream more
+
+- 💰 Does licensing increase engagement?
+  → Licensed tracks receive significantly more comments
+
+- 🏆 Which artists dominate streaming?
+  → Identified top 3 tracks per artist using window functions
+
+- 📀 Singles vs Albums — which performs better?
+  → Singles have higher average streams per track
 
 ## 🙌 Acknowledgements
 
